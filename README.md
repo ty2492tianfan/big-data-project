@@ -16,6 +16,3 @@ classification tasks, and at the end show the comparison of performances.
 ## intro
 This projects focuses on leveraging big data processing technologies, specifically Apache Spark, to improve the data processing pipeline for wildlife trade. Our research goal is utilize these technology to efficiently extract, filter, and classify advertising data, get structured data sets, support future analysis and research. We want to show how to use Spark to process large-scale data in web scraping and text classification applications, and show the comparison of performances. 
 
-
-
-
